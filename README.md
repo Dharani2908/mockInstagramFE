@@ -1,5 +1,3 @@
-# vijaycommits
-
 > A Vue.js project
 
 ## Build Setup
